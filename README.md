@@ -24,12 +24,11 @@
 <img width="922" height="564" alt="Image" src="https://github.com/user-attachments/assets/e4db263e-84c6-40e6-b115-ef00e04c5a60" />
 </div>
 
-
-
 # STAGE 4
 <div>
 <img width="862" height="496" alt="Image" src="https://github.com/user-attachments/assets/310f843e-eef3-4dd0-97fa-f8a5b8d8a97f" />
 <img width="889" height="545" alt="Image" src="https://github.com/user-attachments/assets/bf501616-26d8-4f61-bde8-55fa4b868d16" />
+<img width="1601" height="928" alt="Image" src="https://github.com/user-attachments/assets/5f76dbfc-3784-4b66-ae31-8e4727620b76" />
 </div>
 
 # STAGE 5
@@ -44,7 +43,8 @@
 # STAGE 6
 <div>
 <img width="981" height="565" alt="Image" src="https://github.com/user-attachments/assets/f1a4d20c-0dee-4136-b1c9-8f3062070360" />
-<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" />
+<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" 
+<img width="1599" height="912" alt="Image" src="https://github.com/user-attachments/assets/3b35aa0a-946f-4a15-86e0-5af9b2ad6152" />
 </div>
 
 # STAGE 7
