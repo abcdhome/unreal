@@ -9,6 +9,8 @@
 
 # STAGE 2
 <div>
+<img width="1422" height="779" alt="Image" src="https://github.com/user-attachments/assets/feb8dc77-f2df-425b-9c84-88524f214489" />
+<img width="1343" height="772" alt="Image" src="https://github.com/user-attachments/assets/59076011-fdc5-419b-a520-535a71282ee9" />
 <img width="895" height="553" alt="Image" src="https://github.com/user-attachments/assets/e1b3a357-1542-4036-b6f6-929c12d78f1d" />
 <img width="955" height="540" alt="Image" src="https://github.com/user-attachments/assets/98cc37fe-0ee6-496a-8c1c-32cd790dda63" />
 <img width="934" height="537" alt="Image" src="https://github.com/user-attachments/assets/619dd731-6767-41cc-87e4-3c2bdf3dd88d" />
