@@ -43,7 +43,7 @@
 # STAGE 6
 <div>
 <img width="981" height="565" alt="Image" src="https://github.com/user-attachments/assets/f1a4d20c-0dee-4136-b1c9-8f3062070360" />
-<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" 
+<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" />
 <img width="1599" height="912" alt="Image" src="https://github.com/user-attachments/assets/3b35aa0a-946f-4a15-86e0-5af9b2ad6152" />
 </div>
 
