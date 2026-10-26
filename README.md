@@ -30,14 +30,14 @@
 
 # STAGE 5
 <div>
-<img width="1274" height="598" alt="Image" src="https://github.com/user-attachments/assets/18665284-7b38-487a-a019-285eec93fabd" />
 <img width="1220" height="543" alt="Image" src="https://github.com/user-attachments/assets/86e80db8-88b2-4902-be2a-f9745e1a9257" />
+<img width="1274" height="598" alt="Image" src="https://github.com/user-attachments/assets/18665284-7b38-487a-a019-285eec93fabd" />
 </div>
 
 # STAGE 6
 <div>
-<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" />
 <img width="981" height="565" alt="Image" src="https://github.com/user-attachments/assets/f1a4d20c-0dee-4136-b1c9-8f3062070360" />
+<img width="961" height="524" alt="Image" src="https://github.com/user-attachments/assets/695280c4-ceba-4f74-941f-2687e34118e5" />
 </div>
 
 # STAGE 7
